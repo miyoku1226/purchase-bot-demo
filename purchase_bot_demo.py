@@ -5,7 +5,7 @@ import requests
 URL = "https://httpbin.org/html"  # Dummy URL for demo
 CHECK_INTERVAL = 20  # seconds
 STOCK_KEYWORD = "Herman"  # Simulated "in-stock" keyword
-TELEGRAM_TOKEN = "7889386017:AAHGttLKP7ltP6kmGnV6FrKmJhZQc64QBhg"
+TELEGRAM_TOKEN = "<your_telegrambot_token>"
 CHAT_ID = "<your_chat_id>"  # Replace with your own chat ID
 
 async def send_telegram_message(text):
