@@ -1,9 +1,7 @@
-
 import asyncio
 from playwright.async_api import async_playwright
 import requests
 
-# === CONFIGURATION ===
 URL = "https://httpbin.org/html"  # Dummy URL for demo
 CHECK_INTERVAL = 20  # seconds
 STOCK_KEYWORD = "Herman"  # Simulated "in-stock" keyword
