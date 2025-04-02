@@ -17,7 +17,7 @@ A Python-based automation bot that monitors a product page and sends Telegram al
 - Telegram Bot API
 
 ## Screenshot
-![demo](screenshot.png)
+![demo](Screenshot.png)
 
 ## How to Use
 
