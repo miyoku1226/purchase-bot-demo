@@ -36,5 +36,5 @@ python purchase_bot_demo.py
 ```
 
 ## Note
--This is a working demo template. You can adapt it to real store URLs and actual HTML selectors.
--If you’re looking to hire for a custom bot, feel free to contact!
+- This is a working demo template. You can adapt it to real store URLs and actual HTML selectors.
+- If you’re looking to hire for a custom bot, feel free to contact!
