@@ -1,4 +1,3 @@
-
 # Purchase Bot Demo
 
 A Python-based automation bot that monitors a product page and sends Telegram alerts when stock is detected.
